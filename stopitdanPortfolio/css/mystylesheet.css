@@ -1,0 +1,92 @@
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: lightgray;
+}
+
+.htmlcss {
+    position: absolute;
+    left: -30px;
+    top: 5px;
+}
+
+.codingdojolink {
+    font-size: 0.9em;
+}
+
+.learnmore {
+    margin-left: 71px;
+    margin-right: 71px;
+    vertical-align: bottom;
+}
+
+.aboutme {
+    font-size: 40px;
+}
+
+h4 {
+    color: inherit;
+    font-size: 20px;
+}
+
+.contactemail {
+    text-decoration: none;
+    color: inherit;
+}
+
+#page-wrap {
+     width: 600px;
+     margin: 0 auto;
+     margin-top: 70px;
+     margin-bottom: -50px;
+}
+.menu-items {
+    font-size: 20px;
+}
+
+.biggerh2 {
+    font-size: 3.0em;
+}
+
+.worktitle {
+    margin-left: 30px;
+    margin-bottom: -10px;
+}
+
+.apptitle {
+    color: #326a79;
+    font-size: 4.0em;
+}
+
+.descriptiontitle {
+    font-size: 3.0em;
+}
+
+.back {
+    font-size: 2.0em;
+}
+
+#cover {
+    position: fixed; 
+    height: 100%; 
+    width: 100%; 
+    top:350px; 
+    left: 0;  
+    z-index:9999;
+}
+
+.giftimage {
+    margin-top: 32px;
+    margin-bottom: 30px;
+}
+
+.linkedinicon {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    color: #326a79;
+}
