@@ -39,9 +39,7 @@ h4 {
 }
 
 #page-wrap {
-     width: 600px;
      margin: 0 auto;
-     margin-top: 70px;
      margin-bottom: -50px;
 }
 .menu-items {
@@ -76,6 +74,7 @@ h4 {
     width: 100%; 
     top:350px; 
     left: 0;  
+    color: white;
     z-index:9999;
 }
 
@@ -93,4 +92,5 @@ h4 {
 
 .fa-spinner {
     color: #326a79;
+    z-index: 9999;
 }
