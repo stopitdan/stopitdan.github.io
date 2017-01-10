@@ -96,5 +96,15 @@ h4 {
 }
 
 .myname {
-    font-size: 2.0em;
+    font-size: 0.5em;
+}
+
+.parallax-container {
+      height: 70%;
+}
+
+@media only screen and (max-width: 620px) {
+
+   header { font-size: 0.62em; }
+
 }
